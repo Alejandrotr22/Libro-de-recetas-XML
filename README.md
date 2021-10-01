@@ -10,7 +10,7 @@ Se pide diseñar un documento válido en XML que permita estructurar la informac
 
 
 <div align="center">
-<img width="100%" src="http://drive.google.com/uc?export=view&id=1cjmuXvrpKjmJCkXgy8hKf1jg2gCqYddC">
+<img width="100%" src="http://drive.google.com/uc?export=view&id=1Z_JLlfpGuA8sruPBRo5C0XpjxQUcxNFK">
 </div>
 
 
